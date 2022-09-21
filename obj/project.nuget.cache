@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfGpzDgiKOCDSgm3kyCzb43NaYxrmPQ5hONLf1ktvUWOE/xQeB8+9pfiEEaFvkT+vw6y3cJ+4jdsSwRchTy0Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matib\\source\\repos\\RPGHero\\RPGHero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
